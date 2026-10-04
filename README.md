@@ -1,1 +1,1 @@
-# my-ai-models
+   Gemma is provided under and subject to the Gemma Terms of Use found at https://ai.google.dev/gemma/terms. This repository re-hosts litert-community/functiongemma-270m-ft-mobile-actions (mobile_actions_q8_ekv1024.litertlm) unmodified for the My AI app.
